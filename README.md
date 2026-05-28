@@ -40,7 +40,7 @@ Stores sales transaction details including:
 * Product ID
 * Quantity
 * Sale Amount
- <img src="screenshots/sales_table.png" width="700"/>
+ <img src="Sales.png" width="700"/>
  
 ## Tools Used
 
