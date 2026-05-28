@@ -30,7 +30,7 @@ Stores product details including:
 * Product ID
 * Product Name
 * Price
-<img src="screenshots/product_table.png" width="700"/>
+<img src="Product.png" width="700"/>
 
 ### Sales
 
