@@ -30,7 +30,7 @@ Stores product details including:
 * Product ID
 * Product Name
 * Price
-<img src="Product.png" width="700"/>
+
 
 ### Sales
 
@@ -40,8 +40,7 @@ Stores sales transaction details including:
 * Product ID
 * Quantity
 * Sale Amount
- <img src="Sales.png" width="700"/>
- 
+
 ## Tools Used
 
 * MySQL
